@@ -1,0 +1,42 @@
+hr{
+    width: 1cm;
+}
+body{
+    background-color: rgb(243, 237, 237);
+}
+footer{
+    background-color: white;
+}
+.text{
+    text-align: center;
+    font-size: 12 px;
+    font-family: Arial, sans-serif;
+}
+.text-uppercase{
+    text-align: center;
+    text-transform:  uppercase;
+    font-family: Arial, sans-serif;
+    font-size: 28px; 
+    font-weight: 600;
+    color: black;
+    letter-spacing: 3px;
+    line-height: 1.5;
+    margin: 5px;
+}
+.text-uppercase2{
+    text-align: center;
+    text-transform:  uppercase;
+    font-family: Arial, sans-serif;
+    font-size: 18px; 
+    font-weight: 600;
+    color: black;
+    letter-spacing: 3px;
+    line-height: 1.5;
+    margin: 5px;
+}
+.icon-text-uppercase{
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 12px; 
+    color: black;
+}
