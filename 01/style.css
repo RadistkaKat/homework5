@@ -4,6 +4,23 @@ hr{
 body{
     background-color: rgb(243, 237, 237);
 }
+table{
+    margin: 15px 75px 50px 120px;
+    border-width: center;
+}
+table.image{
+    border-width: center;
+}
+h5{
+    color: black;
+    font-weight: 300;
+    font-family: Arial, sans-serif;
+}
+h6{
+    color: gray;
+    font-weight: 300;
+    font-family: Arial, sans-serif;
+}
 footer{
     background-color: white;
 }
@@ -34,9 +51,12 @@ footer{
     line-height: 1.5;
     margin: 5px;
 }
-.icon-text-uppercase{
-    text-align: center;
-    font-family: Arial, sans-serif;
-    font-size: 12px; 
-    color: black;
+.text-uppercase2:hover{
+    color: aqua;
+}
+a#ask:hover{
+    color: aqua;
+}
+.image a:hover img{
+    color: aqua;
 }
